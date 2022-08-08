@@ -12,7 +12,7 @@ Using AVR Atmega 32 microcontroller and Atmel Studio IDE
 
 <img width="505" alt="image" src="https://user-images.githubusercontent.com/72350784/183402222-7cd17063-fe5e-4e61-a73f-a434120232fa.png">
 
-### Prototype Implementation
+### Circuit Implementation
 
 <img width="489" alt="image" src="https://user-images.githubusercontent.com/72350784/183402493-c52894cb-b247-4e13-b605-f6742046809d.png">
 
